@@ -19,6 +19,11 @@ Datasets:(Need access except RenderPeople)
 3)HuMMan - https://caizhongang.github.io/projects/HuMMan/
 4)ZU-Mocap - https://github.com/zju3dv/neuralbody
 -----------------------------------------------------------------------------------------------------------------------------
+Pre-trained models:
+1)SHERF_renderpeople or other datasets pretrained model:
+https://mycuhk-my.sharepoint.com/:u:/g/personal/1155098117_link_cuhk_edu_hk/EU3RxpLuKmZImkdJbG8Y12EBZ9RxIfQiEx7ctt5obXUjzw?e=gXJbIQ
+2) SMPL NEUTRAL model - https://smpl.is.tue.mpg.de/
+-----------------------------------------------------------------------------------------------------------------------------
 Implementation details:
 -> There are two ways we can try to execute this code.
 i ) Local Environment
